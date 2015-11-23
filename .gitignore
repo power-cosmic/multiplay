@@ -1,0 +1,5 @@
+# node stuff
+node_modules
+
+# bower stuff
+public/lob

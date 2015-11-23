@@ -1,0 +1,20 @@
+{
+  "name": "multiplay",
+  "version": "1.0.0",
+  "description": "The world's premier networked multiplayer javascript framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "multiplayer",
+    "networking"
+  ],
+  "author": "Tyler Hoffman <tyler.c.hoffman@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "amdrequire": "latest",
+    "express": "latest",
+    "socket.io": "~1.1.0"
+  }
+}

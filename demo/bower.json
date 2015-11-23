@@ -1,0 +1,9 @@
+{
+  "name": "multiplay",
+  "version": "0.0.1",
+  "dependencies": {
+    "ajaxer": "https://github.com/power-cosmic/ajaxer.git#master",
+    "key-manager": "https://github.com/power-cosmic/key-manager.git#master",
+    "requirator": "https://github.com/power-cosmic/requirator.git#master"
+  }
+}
